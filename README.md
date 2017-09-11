@@ -2,6 +2,11 @@
 
 https://newline.theironyard.com/cohorts/22/courses/6/projects/69
 
+Lessons:
+https://newline.theironyard.com/cohorts/22/courses/6/objective_lessons/64
+https://newline.theironyard.com/cohorts/22/courses/6/objective_lessons/64/review
+
+
 Daily Project: Constructor and Prototype Practice (Completed)
 Constructor and Prototype Practice
 In this project, you will work on creating constructors and prototypes that will help pass a series of pre-written tests.
